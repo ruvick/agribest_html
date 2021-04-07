@@ -1,0 +1,18 @@
+$text-color: #000;
+$Bold:  'Circe Bold', sans-serif;
+$ExtraBold: 'Circe ExtraBold', sans-serif;
+$ExtraLight: 'Circe ExtraLight', sans-serif;
+$Light: 'Circe Light', sans-serif;
+$Regular: 'Circe', sans-serif;
+$Thin: 'Circe Thin', sans-serif;
+
+$elemColor: #1dc17b;
+
+
+@import 'scss/fonts';
+@import 'scss/slick-theme';
+@import 'scss/slick';
+@import 'scss/jquery.fancybox';
+@import 'scss/global';
+@import 'scss/common';
+@import 'scss/adaptiv';
